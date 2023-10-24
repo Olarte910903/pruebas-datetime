@@ -1,0 +1,14 @@
+/Users/anamariaagudelo/Projects/pruebaDatetime/obj/Debug/net7.0/pruebaDatetime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anamariaagudelo/Projects/pruebaDatetime/obj/Debug/net7.0/pruebaDatetime.AssemblyInfoInputs.cache
+/Users/anamariaagudelo/Projects/pruebaDatetime/obj/Debug/net7.0/pruebaDatetime.AssemblyInfo.cs
+/Users/anamariaagudelo/Projects/pruebaDatetime/obj/Debug/net7.0/pruebaDatetime.csproj.CoreCompileInputs.cache
+/Users/anamariaagudelo/Projects/pruebaDatetime/bin/Debug/net7.0/pruebaDatetime
+/Users/anamariaagudelo/Projects/pruebaDatetime/bin/Debug/net7.0/pruebaDatetime.deps.json
+/Users/anamariaagudelo/Projects/pruebaDatetime/bin/Debug/net7.0/pruebaDatetime.runtimeconfig.json
+/Users/anamariaagudelo/Projects/pruebaDatetime/bin/Debug/net7.0/pruebaDatetime.dll
+/Users/anamariaagudelo/Projects/pruebaDatetime/bin/Debug/net7.0/pruebaDatetime.pdb
+/Users/anamariaagudelo/Projects/pruebaDatetime/obj/Debug/net7.0/pruebaDatetime.dll
+/Users/anamariaagudelo/Projects/pruebaDatetime/obj/Debug/net7.0/refint/pruebaDatetime.dll
+/Users/anamariaagudelo/Projects/pruebaDatetime/obj/Debug/net7.0/pruebaDatetime.pdb
+/Users/anamariaagudelo/Projects/pruebaDatetime/obj/Debug/net7.0/pruebaDatetime.genruntimeconfig.cache
+/Users/anamariaagudelo/Projects/pruebaDatetime/obj/Debug/net7.0/ref/pruebaDatetime.dll
